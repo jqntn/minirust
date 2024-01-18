@@ -3,13 +3,22 @@ default (cargo new)
 debug		148480
 release		145408
 
+-
 
 Cargo.toml size optimizations
 
 release		127488
 
+-
 
 upx
 
 upx                 61440
 upx --best --lzma   58880
+
+-
+
+msvc static crt
+
+release		    231424
+release	+ upx	99840
