@@ -1,4 +1,4 @@
-default
+default (cargo new)
 
 debug		148480
 release		145408
