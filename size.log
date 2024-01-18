@@ -2,3 +2,7 @@ default (cargo new)
 
 debug		148480
 release		145408
+
+Cargo.toml size optimizations
+
+release		127488
