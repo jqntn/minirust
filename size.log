@@ -22,3 +22,10 @@ msvc static crt
 
 release		    231424
 release	+ upx	99840
+
+-
+
+linkers
+
+link		    231424
+lld-link	    235520
