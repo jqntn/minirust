@@ -29,3 +29,10 @@ linkers
 
 link		    231424
 lld-link	    235520
+
+-
+
+linux targets (static linkage)
+
+gnu 		    1295088
+musl    	    407736
