@@ -1,13 +1,13 @@
 default (cargo new)
 
-debug		148480
-release		145408
+debug      148480
+release    145408
 
 -
 
 Cargo.toml size optimizations
 
-release		127488
+release    127488
 
 -
 
@@ -20,19 +20,19 @@ upx --best --lzma   58880
 
 msvc static crt
 
-release		    231424
-release	+ upx	99840
+release            231424
+release  + upx      99840
 
 -
 
 linkers
 
-link		    231424
-lld-link	    235520
+link          231424
+lld-link      235520
 
 -
 
 linux targets (static linkage)
 
-gnu 		    1295088
-musl    	    407736
+gnu          1295088
+musl          407736
